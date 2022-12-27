@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Words by Miguel</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2022-12-26T16:35:00+00:00</updated><entry><title>Marking a change of season</title><link href="/marking-a-change-of-season.html" rel="alternate"></link><published>2022-12-26T16:35:00+00:00</published><updated>2022-12-26T16:35:00+00:00</updated><author><name>Miguel Roca</name></author><id>tag:None,2022-12-26:/marking-a-change-of-season.html</id><summary type="html">&lt;h1 id="top"&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;&lt;a href="#main"&gt;&lt;strong&gt;Skip disclaimer&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer(s):&lt;/strong&gt; This is my first personal blog post for a while. What you see here is an experiment using a Python-based static site template engine called &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, featuring a custom template called &lt;a href="https://elegant.oncrashreboot.com/"&gt;elegant&lt;/a&gt;(not my own). Be aware however that since I haven't spent much time …&lt;/p&gt;</summary><content type="html">&lt;h1 id="top"&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;&lt;a href="#main"&gt;&lt;strong&gt;Skip disclaimer&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer(s):&lt;/strong&gt; This is my first personal blog post for a while. What you see here is an experiment using a Python-based static site template engine called &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, featuring a custom template called &lt;a href="https://elegant.oncrashreboot.com/"&gt;elegant&lt;/a&gt;(not my own). Be aware however that since I haven't spent much time developing the full functionality of this site yet (it's really just started for the blog post below), many of the additional features may not work just yet. &lt;/p&gt;
+&lt;p&gt;I recently ditched my old Wordpress websites and decided to try something more self-produced. This site will probably change quite a lot over the next 12 months, but I felt like I had some personal things to write about again, which are mainly aimed at family, friends, and acquaintances. &lt;/p&gt;
+&lt;p&gt;It's worth stating here therefore that this particular post is not related to my professional data journalism and visualisation work in any way, and is more of a place for me to experiment with personal writing, blogging, and thinking about all sorts of different topics.&lt;/p&gt;
+&lt;p&gt;With that said, here we go...&lt;/p&gt;
+&lt;h2 id="main"&gt;Time to talk about a niche subject for me: Tattoos!&lt;/h2&gt;
+&lt;!-- Next need to learn how to change the size of this image in markdown --&gt;
+&lt;div class="image"&gt;
+&lt;img src ="/images/pexels-isabella-mendes-1304469.jpg" alt="tattoo artist" width = "640", height = "320"&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://www.pexels.com/photo/selective-focus-photography-of-tattoo-artist-drawing-a-tatoo-1304469/"&gt;photo by Isabella Mendes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I had always envied my friends who got themselves &lt;em&gt;inked&lt;/em&gt; when we were younger. Although I once had an eyebrow piercing and an alternative vibe in my late teens, I didn't go as far as they did by submitting myself to the surgical precision of the tattooist's needle. &lt;/p&gt;
+&lt;p&gt;Until now.&lt;/p&gt;
+&lt;p&gt;About two weeks ago I finally decided to take the plunge. I am now sporting a gorgeous new tattoo which combines an ancient symbol known as the &lt;em&gt;triquetra&lt;/em&gt;, and a Spanish translation of three words from Christian biblical literature. &lt;/p&gt;
+&lt;p&gt;Namely, the words &lt;em&gt;la fe&lt;/em&gt; which means "Faith", &lt;em&gt;la esperanza&lt;/em&gt; which means "Hope", and &lt;em&gt;el amor&lt;/em&gt; which means "Love". These have come straight from St Paul's first letter to the Corinthians, chapter 13.&lt;/p&gt;
+&lt;p&gt;I thought I would share a brief post explaining some of my motivations behind getting this particular combination of rich exotic symbolism and hispanic text. So, without further ado, if you want a slightly longer explanation then just keep reading...&lt;/p&gt;
+&lt;p&gt;OR...&lt;/p&gt;
+&lt;p&gt;&lt;a href="#summary"&gt;Click/tap on this link to skip to the short version&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;My first real tattoo: A variation on the Triquetra.&lt;/h1&gt;
+&lt;div class="image"&gt;
+&lt;img src ="/images/tattoofresh.jpg" alt="my first tattoo" width = "640", height = "320"&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Sublime symbolism&lt;/h3&gt;
+&lt;p&gt;First, to the symbol itself, which has had an extraordinary history and myriad meanings attributed to it. I first discovered it when I was researching my Irish roots, as it has been found in many Norse, Celtic, and Celtic Christian artefact. For example, it is particularly prominent in one of Ireland's greatest historical treasures known as &lt;a href="https://www.tcd.ie/visitors/book-of-kells/"&gt;the book of Kells&lt;/a&gt;, which according to a &lt;a href="https://www.bbc.com/culture/article/20160425-the-book-of-kells-medieval-europes-greatest-treasure"&gt;recent BBC article&lt;/a&gt; was completed around 800AD.&lt;/p&gt;
+&lt;p&gt;However according to Keith O'hara, &lt;a href="https://www.theirishroadtrip.com/the-triquetra-celtic-trinity-knot/"&gt;writing for the Irish road trip&lt;/a&gt;, though the precise origins of the triquetra are disputed it is generally accepted to be at least 5000 years old. &lt;/p&gt;
+&lt;p&gt;This claim is echoed in &lt;a href="https://symbolsage.com/trinity-knot-symbol/#in-brief"&gt;another post written by Dani Rhys&lt;/a&gt; on a site called Symbol Sage. Rhys writes that beyond Northern Europe, the triquetra has apparently been found across the globe everywhere from early Lycia (modern day Turkey) to Persia, Anatolia, and as far afield as Japan.&lt;/p&gt;
+&lt;p&gt;Without getting too bogged down in the muddy shores of history, I was immediately captivated by the multiplicity of meanings that have been, and can still be associated with this mysterious shape. Some of these include (in no particular order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The holy trinity (Father, Son, and Spirit) from the Celtic Christian tradition.&lt;/li&gt;
+&lt;li&gt;Life, death, and rebirth (attributed to pagan beliefs).&lt;/li&gt;
+&lt;li&gt;Family (e.g., father, mother, and child).&lt;/li&gt;
+&lt;li&gt;Past, present, and future.&lt;/li&gt;
+&lt;li&gt;Body, mind, and spirit.&lt;/li&gt;
+&lt;li&gt;Maiden, mother, and crone (attributed to modern Wiccan beliefs).&lt;/li&gt;
+&lt;li&gt;Earth, sea, and sky.&lt;/li&gt;
+&lt;li&gt;Fire, earth, and water.&lt;/li&gt;
+&lt;li&gt;Eternity, and eternal love (as the symbol has no beginning and no end).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And doubtless more besides! &lt;/p&gt;
+&lt;p&gt;I felt taken by many of these meanings and was particularly drawn to the Celtic Christian representation of the trinity. However I could also see some truth to how all of these different trios of interlocking ideas and concepts exist in our world. The whole notion of the &lt;em&gt;power of three&lt;/em&gt; also immediately struck me as being relevant when meditating on the three hispanic words I decided to include circling around the design.&lt;/p&gt;
+&lt;h2&gt;Faith, hope, and love&lt;/h2&gt;
+&lt;p&gt;In the biblical texts which we have translated into various languages these three words would have been written in their original context as πίστις, ἐλπίς, ἀγάπη. &lt;/p&gt;
+&lt;p&gt;These can be transliterated into English as &lt;em&gt;pistis, elpis, agapē&lt;/em&gt;, which we tend to translate as faith, hope, and love. The full sentence where the words occur in this short passage might be rendered as &lt;em&gt;Now these three remain: Faith, hope, and love, but the greatest of these is love&lt;/em&gt; (&lt;a href="https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A13&amp;amp;version=NIV"&gt;1  Cor 13:13, NIV&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;Without going into more detail, I have always found this part of the letter attributed to St. Paul to be a beautiful and compelling depiction of at least three separate things: Core elements of Christian theology, flexible concepts within which to explore profound aspects of the human condition, and a tripartite ideal to strive towards from an ethical and/or philosophical point of view. &lt;/p&gt;
+&lt;p&gt;It kind of says to me: If you remember anything about Christianity then hold on to these three things, and don't forget that the most important one is love (specifically &lt;em&gt;agape&lt;/em&gt; or self-giving/self-sacrificial love)!&lt;/p&gt;
+&lt;h2&gt;The triquetra and mathematics&lt;/h2&gt;
+&lt;p&gt;Another remarkable aspect of the triquetra is its inherent geometrical and mathematical complexity. According to &lt;a href="https://mathworld.wolfram.com/Triquetra.html#:~:text=The%20triquetra%20is%20a%20geometric,lenses%20is%20a%20Reuleaux%20triangle."&gt;Wolfram Alpha&lt;/a&gt;, the shape is in fact "a geometric figure consisting of three mutually intersecting &lt;a href="https://mathworld.wolfram.com/VesicaPiscis.html"&gt;vesica piscis&lt;/a&gt; lens shapes", which has a "central region" called a &lt;a href="https://mathworld.wolfram.com/ReuleauxTriangle.html"&gt;Reuleaux triangle&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Vesica piscis has variously been &lt;a href="https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings"&gt;written about&lt;/a&gt; in the context of &lt;a href="https://www.vaniercollege.qc.ca/science/sacred-geometry/"&gt;sacred geometry&lt;/a&gt;, where the symbol is thought to have had many different hidden meanings. &lt;/p&gt;
+&lt;p&gt;In &lt;a href="https://core.ac.uk/download/pdf/76529745.pdf"&gt;a recent research paper&lt;/a&gt; exploring the symbol, the writers talk about how the vesica piscis has a rich and multifaceted historical, mathematical, geometric, religious, and architectural significance. Another author called &lt;a href="https://medium.com/the-collector/the-fascinating-iconography-of-vesica-piscis-5674bd834dd7"&gt;Kamna Kabir has written about&lt;/a&gt; how vesica piscis shapes have been used extensively in Christian iconography, featured in Greek and Roman mythology, and can be found in ancient Egyptian architecture.&lt;/p&gt;
+&lt;p&gt;Needless to say, these mysterious features appealed to my curiosity a great deal. They were also perfectly fitting for my desire to showcase something about my increasingly nuanced understanding of my Christian faith, given that the symbol has clearly had considerable theological, historical, and mathematical depth.&lt;/p&gt;
+&lt;h2 id="summary"&gt;A permanent reminder&lt;/h2&gt;
+&lt;p&gt;This all brings me to summarise my main motivations for getting this symbol tattooed onto my skin and why it reminds me about some of the most important things in my life. &lt;/p&gt;
+&lt;p&gt;As far as the triquetra itself is concerned: My Christian faith (the holy trinity), family (potentially one of the ancient Celtic meanings), my Irish heritage (connected to the latter), life stages, eternity, and other things I often think about in my quieter and more pensive moments. &lt;/p&gt;
+&lt;p&gt;The Spanish text meaning faith, hope, and love reminds me of my Hispanic roots and the centrality of these three Christian concepts, the greatest of which is &lt;em&gt;el amor&lt;/em&gt;, or self-sacrificial &lt;em&gt;agape&lt;/em&gt; love. This would almost certainly have been epitomised by the crucifixion of Jesus of Nazareth in early Christian tradition.&lt;/p&gt;
+&lt;p&gt;The fact that a tattoo is typically permanent also ties into the deeper meaning and significance behind some of these different elements for me.&lt;/p&gt;
+&lt;p&gt;So in a fitting sort of way, the power of three is represented for me in this tattoo, which is now an indelible reminder of my faith, family, and heritage; all of which are underpinned and encircled by love in an eternal cycle of interconnectedness.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="#top"&gt;Return to top&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;
+.text{
+    margin-left:20px;
+    margin-right:20px;
+    alight-content:center;
+}
+.image{
+    margin-left:20px;
+    margin-right:20px;
+    alight-content:center;
+}
+.caption{
+    margin-left:calc(20%);
+    margin-right:calc(20%);
+    font-size:10px;
+}
+&lt;/style&gt;</content><category term="Opinion"></category></entry></feed>
